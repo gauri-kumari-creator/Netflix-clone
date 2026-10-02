@@ -23,3 +23,7 @@ This project was created for practicing frontend web development and responsive 
 ## Author
 
 Gauri Kumari
+
+## Link Demo
+
+https://netflix-clone-taupe-omega.vercel.app
